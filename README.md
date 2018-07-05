@@ -1,3 +1,7 @@
+DOWNLOAD MODULE : https://github.com/Kushikime/Invoice_currency_changer/blob/master/saleorder_currency_exchanger.rar
+
+
+
 <h2>When i hit "Create Invoice" button on sale order, odoo open for us a wizard where we can choose some option's.</h2>
 <img src="https://github.com/Kushikime/Invoice_currency_changer/blob/master/Create_invoice_button.png" width="400">
 
