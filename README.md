@@ -6,9 +6,9 @@
 <h2>Then if we hit "Create Invoices" odoo will create an invoice.</h2>
 <img src="https://github.com/Kushikime/Invoice_currency_changer/blob/master/example_of_invoice.png" width="480">
 
-<h2>The problem here is that, when somebody will check box "Convert to base currency",
+<h3>The problem here is that, when somebody will check box "Convert to base currency",
 the Invoice must take current base currency of the system, in my case it's (USD),
-then re-calculate the values for each item, and update invoice with new values.</h2>
+then re-calculate the values for each item, and update invoice with new values.</h3>
 
 <h1>My plan:
 	
